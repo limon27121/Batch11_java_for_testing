@@ -4,6 +4,7 @@ import java.io.IOException;
 
 public class File_write {
     public static void main(String[] args) throws IOException {
+        file_write();
         read_file();
 
     }
